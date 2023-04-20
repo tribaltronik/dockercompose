@@ -1,5 +1,7 @@
 # Elasticsearch + Kibana 
 
+Run Elasticsearch and Kibana with Docker Compose
+
 https://levelup.gitconnected.com/docker-compose-made-easy-with-elasticsearch-and-kibana-4cb4110a80dd
 
 ## Start services
